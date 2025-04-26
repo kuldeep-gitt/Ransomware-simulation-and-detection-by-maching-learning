@@ -1,0 +1,941 @@
+2025-04-25 05:08:35,772 - WARNING - Could not analyze C:\TestFiles\file_707.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:36,842 - WARNING - Suspicious activity detected on file_707.xlsx. Indicators: ['ml_anomaly']. Score: 2/10
+2025-04-25 05:08:38,088 - WARNING - Could not analyze C:\TestFiles\file_726.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:39,296 - WARNING - Suspicious activity detected on file_726.docx. Indicators: ['ml_anomaly']. Score: 4/10
+2025-04-25 05:08:39,308 - WARNING - Could not analyze C:\TestFiles\file_219.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:40,387 - WARNING - Suspicious activity detected on file_219.png. Indicators: ['ml_anomaly']. Score: 6/10
+2025-04-25 05:08:46,363 - WARNING - Could not analyze C:\TestFiles\file_49.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:47,767 - WARNING - Suspicious activity detected on file_49.xlsx. Indicators: ['ml_anomaly']. Score: 8/10
+2025-04-25 05:08:47,837 - WARNING - Could not analyze C:\TestFiles\file_374.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,130 - WARNING - Suspicious activity detected on file_374.txt. Indicators: ['ml_anomaly']. Score: 10/10
+2025-04-25 05:08:49,143 - CRITICAL - ACTIVATING DEFENSIVE MEASURES!
+2025-04-25 05:08:49,760 - WARNING - Could not analyze C:\TestFiles\file_0.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,783 - WARNING - Could not analyze C:\TestFiles\file_1.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,799 - WARNING - Could not analyze C:\TestFiles\file_2.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,801 - WARNING - Could not analyze C:\TestFiles\file_219.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,818 - WARNING - Could not analyze C:\TestFiles\file_265.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,838 - WARNING - Could not analyze C:\TestFiles\file_3.jpg.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,839 - WARNING - Could not analyze C:\TestFiles\file_374.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,878 - WARNING - Could not analyze C:\TestFiles\file_380.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,892 - WARNING - Could not analyze C:\TestFiles\file_4.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,909 - WARNING - Could not analyze C:\TestFiles\file_488.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,911 - WARNING - Could not analyze C:\TestFiles\file_49.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,928 - WARNING - Could not analyze C:\TestFiles\file_5.txt.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,946 - WARNING - Could not analyze C:\TestFiles\file_530.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,962 - WARNING - Could not analyze C:\TestFiles\file_588.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,984 - WARNING - Could not analyze C:\TestFiles\file_6.docx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:49,999 - WARNING - Could not analyze C:\TestFiles\file_7.pdf.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:50,026 - WARNING - Could not analyze C:\TestFiles\file_703.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:50,028 - WARNING - Could not analyze C:\TestFiles\file_707.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:50,029 - WARNING - Could not analyze C:\TestFiles\file_726.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:50,054 - WARNING - Could not analyze C:\TestFiles\file_8.txt.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:50,094 - WARNING - Could not analyze C:\TestFiles\file_870.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:50,117 - WARNING - Could not analyze C:\TestFiles\file_9.txt.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:52,551 - CRITICAL - Defensive actions taken: ['Terminated 0 processes', 'Quarantined 0 files', 'Network disabled', 'System locked', 'No admin email configured']
+2025-04-25 05:08:52,645 - WARNING - Could not analyze C:\TestFiles\file_665.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:55,276 - WARNING - Suspicious activity detected on file_665.xlsx. Indicators: ['ml_anomaly']. Score: 7/10
+2025-04-25 05:08:55,409 - WARNING - Could not analyze C:\TestFiles\file_87.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:57,351 - WARNING - Suspicious activity detected on file_87.pdf. Indicators: ['ml_anomaly']. Score: 9/10
+2025-04-25 05:08:58,238 - WARNING - Could not analyze C:\TestFiles\file_260.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:08:59,600 - WARNING - Suspicious activity detected on file_260.txt. Indicators: ['ml_anomaly']. Score: 11/10
+2025-04-25 05:09:00,531 - WARNING - Could not analyze C:\TestFiles\file_111.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:02,862 - WARNING - Suspicious activity detected on file_111.jpg. Indicators: ['ml_anomaly']. Score: 13/10
+2025-04-25 05:09:03,124 - WARNING - Could not analyze C:\TestFiles\file_240.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:04,915 - WARNING - Suspicious activity detected on file_240.txt. Indicators: ['ml_anomaly']. Score: 15/10
+2025-04-25 05:09:05,002 - WARNING - Could not analyze C:\TestFiles\file_87.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:06,583 - WARNING - Suspicious activity detected on file_87.txt. Indicators: ['ml_anomaly']. Score: 17/10
+2025-04-25 05:09:06,645 - WARNING - Could not analyze C:\TestFiles\file_676.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:07,936 - WARNING - Suspicious activity detected on file_676.docx. Indicators: ['ml_anomaly']. Score: 19/10
+2025-04-25 05:09:07,975 - WARNING - Could not analyze C:\TestFiles\file_636.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:09,186 - WARNING - Suspicious activity detected on file_636.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:09,223 - WARNING - Could not analyze C:\TestFiles\file_112.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:10,400 - WARNING - Suspicious activity detected on file_112.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:10,421 - WARNING - Could not analyze C:\TestFiles\file_896.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:11,605 - WARNING - Suspicious activity detected on file_896.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:14,788 - WARNING - Could not analyze C:\TestFiles\file_911.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:15,963 - WARNING - Suspicious activity detected on file_911.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:17,408 - WARNING - Could not analyze C:\TestFiles\file_447.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:18,475 - WARNING - Suspicious activity detected on file_447.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:19,958 - WARNING - Could not analyze C:\TestFiles\file_828.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:21,174 - WARNING - Suspicious activity detected on file_828.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:22,748 - WARNING - Could not analyze C:\TestFiles\file_686.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:23,926 - WARNING - Suspicious activity detected on file_686.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:25,818 - WARNING - Could not analyze C:\TestFiles\file_21.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:26,824 - WARNING - Suspicious activity detected on file_21.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:27,145 - WARNING - Could not analyze C:\TestFiles\file_877.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:28,370 - WARNING - Suspicious activity detected on file_877.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:28,470 - WARNING - Could not analyze C:\TestFiles\file_332.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:31,245 - WARNING - Could not analyze C:\TestFiles\file_1.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:32,203 - WARNING - Suspicious activity detected on file_1.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:34,284 - WARNING - Could not analyze C:\TestFiles\file_12.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:35,270 - WARNING - Suspicious activity detected on file_12.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:35,280 - WARNING - Could not analyze C:\TestFiles\file_455.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:39,969 - WARNING - Could not analyze C:\TestFiles\file_635.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:43,785 - WARNING - Could not analyze C:\TestFiles\file_116.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:44,794 - WARNING - Suspicious activity detected on file_116.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:45,628 - WARNING - Could not analyze C:\TestFiles\file_836.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:46,580 - WARNING - Suspicious activity detected on file_836.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:47,411 - WARNING - Could not analyze C:\TestFiles\file_224.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:48,352 - WARNING - Suspicious activity detected on file_224.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:48,364 - WARNING - Could not analyze C:\TestFiles\file_889.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:49,309 - WARNING - Suspicious activity detected on file_889.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:49,343 - WARNING - Could not analyze C:\TestFiles\file_337.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:50,285 - WARNING - Suspicious activity detected on file_337.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:50,306 - WARNING - Could not analyze C:\TestFiles\file_575.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:51,247 - WARNING - Suspicious activity detected on file_575.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:51,960 - WARNING - Could not analyze C:\TestFiles\file_966.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:52,968 - WARNING - Suspicious activity detected on file_966.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:54,151 - WARNING - Could not analyze C:\TestFiles\file_535.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:55,247 - WARNING - Suspicious activity detected on file_535.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:55,562 - WARNING - Could not analyze C:\TestFiles\file_415.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:56,613 - WARNING - Suspicious activity detected on file_415.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:58,384 - WARNING - Could not analyze C:\TestFiles\file_189.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:09:59,494 - WARNING - Suspicious activity detected on file_189.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:09:59,507 - WARNING - Could not analyze C:\TestFiles\file_454.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:00,539 - WARNING - Suspicious activity detected on file_454.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:02,247 - WARNING - Could not analyze C:\TestFiles\file_629.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:03,625 - WARNING - Suspicious activity detected on file_629.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:04,058 - WARNING - Could not analyze C:\TestFiles\file_937.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:05,197 - WARNING - Suspicious activity detected on file_937.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:05,207 - WARNING - Could not analyze C:\TestFiles\file_925.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:06,339 - WARNING - Suspicious activity detected on file_925.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:06,351 - WARNING - Could not analyze C:\TestFiles\file_854.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:07,652 - WARNING - Suspicious activity detected on file_854.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:07,680 - WARNING - Could not analyze C:\TestFiles\file_138.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:09,073 - WARNING - Suspicious activity detected on file_138.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:11,013 - WARNING - Could not analyze C:\TestFiles\file_453.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:12,495 - WARNING - Suspicious activity detected on file_453.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:15,671 - WARNING - Could not analyze C:\TestFiles\file_849.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:16,945 - WARNING - Suspicious activity detected on file_849.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:16,977 - WARNING - Could not analyze C:\TestFiles\file_390.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:18,260 - WARNING - Suspicious activity detected on file_390.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:20,396 - WARNING - Could not analyze C:\TestFiles\file_188.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:21,683 - WARNING - Suspicious activity detected on file_188.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:21,697 - WARNING - Could not analyze C:\TestFiles\file_538.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:22,951 - WARNING - Suspicious activity detected on file_538.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:22,969 - WARNING - Could not analyze C:\TestFiles\file_402.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:24,221 - WARNING - Suspicious activity detected on file_402.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:24,242 - WARNING - Could not analyze C:\TestFiles\file_464.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:25,488 - WARNING - Suspicious activity detected on file_464.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:25,504 - WARNING - Could not analyze C:\TestFiles\file_185.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:26,678 - WARNING - Suspicious activity detected on file_185.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:26,822 - WARNING - Could not analyze C:\TestFiles\file_284.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:28,004 - WARNING - Suspicious activity detected on file_284.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:28,029 - WARNING - Could not analyze C:\TestFiles\file_605.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:29,149 - WARNING - Suspicious activity detected on file_605.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:30,451 - WARNING - Could not analyze C:\TestFiles\file_680.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:32,210 - WARNING - Suspicious activity detected on file_680.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:32,224 - WARNING - Could not analyze C:\TestFiles\file_711.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:34,085 - WARNING - Suspicious activity detected on file_711.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:34,124 - WARNING - Could not analyze C:\TestFiles\file_384.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:35,249 - WARNING - Suspicious activity detected on file_384.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:35,262 - WARNING - Could not analyze C:\TestFiles\file_604.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:36,408 - WARNING - Suspicious activity detected on file_604.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:36,423 - WARNING - Could not analyze C:\TestFiles\file_615.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:38,590 - WARNING - Suspicious activity detected on file_615.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:38,902 - WARNING - Could not analyze C:\TestFiles\file_486.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:39,910 - WARNING - Suspicious activity detected on file_486.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:39,925 - WARNING - Could not analyze C:\TestFiles\file_548.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:40,935 - WARNING - Suspicious activity detected on file_548.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:40,947 - WARNING - Could not analyze C:\TestFiles\file_680.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:41,957 - WARNING - Suspicious activity detected on file_680.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:41,970 - WARNING - Could not analyze C:\TestFiles\file_175.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:43,007 - WARNING - Suspicious activity detected on file_175.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:43,023 - WARNING - Could not analyze C:\TestFiles\file_247.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:44,036 - WARNING - Suspicious activity detected on file_247.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:44,049 - WARNING - Could not analyze C:\TestFiles\file_779.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:45,057 - WARNING - Suspicious activity detected on file_779.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:45,070 - WARNING - Could not analyze C:\TestFiles\file_283.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:46,083 - WARNING - Suspicious activity detected on file_283.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:46,096 - WARNING - Could not analyze C:\TestFiles\file_944.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:47,063 - WARNING - Suspicious activity detected on file_944.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:47,072 - WARNING - Could not analyze C:\TestFiles\file_158.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:47,981 - WARNING - Suspicious activity detected on file_158.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:47,992 - WARNING - Could not analyze C:\TestFiles\file_368.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:48,900 - WARNING - Suspicious activity detected on file_368.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:48,911 - WARNING - Could not analyze C:\TestFiles\file_634.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:49,823 - WARNING - Suspicious activity detected on file_634.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:49,833 - WARNING - Could not analyze C:\TestFiles\file_857.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:50,742 - WARNING - Suspicious activity detected on file_857.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:50,754 - WARNING - Could not analyze C:\TestFiles\file_785.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:51,723 - WARNING - Suspicious activity detected on file_785.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:51,735 - WARNING - Could not analyze C:\TestFiles\file_221.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:52,650 - WARNING - Suspicious activity detected on file_221.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:52,735 - WARNING - Could not analyze C:\TestFiles\file_846.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:53,645 - WARNING - Suspicious activity detected on file_846.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:53,655 - WARNING - Could not analyze C:\TestFiles\file_964.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:54,625 - WARNING - Suspicious activity detected on file_964.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:54,636 - WARNING - Could not analyze C:\TestFiles\file_208.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:55,538 - WARNING - Suspicious activity detected on file_208.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:55,550 - WARNING - Could not analyze C:\TestFiles\file_102.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:56,367 - WARNING - Suspicious activity detected on file_102.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:56,378 - WARNING - Could not analyze C:\TestFiles\file_354.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:57,196 - WARNING - Suspicious activity detected on file_354.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:57,204 - WARNING - Could not analyze C:\TestFiles\file_226.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:58,020 - WARNING - Suspicious activity detected on file_226.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:58,031 - WARNING - Could not analyze C:\TestFiles\file_142.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:58,853 - WARNING - Suspicious activity detected on file_142.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:58,860 - WARNING - Could not analyze C:\TestFiles\file_837.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:10:59,684 - WARNING - Suspicious activity detected on file_837.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:10:59,695 - WARNING - Could not analyze C:\TestFiles\file_357.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:00,513 - WARNING - Suspicious activity detected on file_357.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:00,525 - WARNING - Could not analyze C:\TestFiles\file_476.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:01,343 - WARNING - Suspicious activity detected on file_476.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:01,351 - WARNING - Could not analyze C:\TestFiles\file_418.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:02,169 - WARNING - Suspicious activity detected on file_418.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:02,180 - WARNING - Could not analyze C:\TestFiles\file_273.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:02,999 - WARNING - Suspicious activity detected on file_273.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:03,009 - WARNING - Could not analyze C:\TestFiles\file_867.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:03,869 - WARNING - Suspicious activity detected on file_867.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:03,879 - WARNING - Could not analyze C:\TestFiles\file_948.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:04,778 - WARNING - Suspicious activity detected on file_948.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:04,792 - WARNING - Could not analyze C:\TestFiles\file_752.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:05,691 - WARNING - Suspicious activity detected on file_752.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:05,700 - WARNING - Could not analyze C:\TestFiles\file_707.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:06,600 - WARNING - Suspicious activity detected on file_707.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:06,608 - WARNING - Could not analyze C:\TestFiles\file_455.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:07,507 - WARNING - Suspicious activity detected on file_455.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:07,519 - WARNING - Could not analyze C:\TestFiles\file_750.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:08,418 - WARNING - Suspicious activity detected on file_750.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:08,433 - WARNING - Could not analyze C:\TestFiles\file_10.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:09,333 - WARNING - Suspicious activity detected on file_10.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:09,345 - WARNING - Could not analyze C:\TestFiles\file_631.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:10,244 - WARNING - Suspicious activity detected on file_631.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:11,121 - WARNING - Could not analyze C:\TestFiles\file_69.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:12,036 - WARNING - Suspicious activity detected on file_69.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:12,050 - WARNING - Could not analyze C:\TestFiles\file_102.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:13,031 - WARNING - Suspicious activity detected on file_102.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:19,298 - WARNING - Could not analyze C:\TestFiles\file_136.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:20,320 - WARNING - Suspicious activity detected on file_136.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:20,331 - WARNING - Could not analyze C:\TestFiles\file_112.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:21,325 - WARNING - Suspicious activity detected on file_112.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:21,335 - WARNING - Could not analyze C:\TestFiles\file_477.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:22,394 - WARNING - Suspicious activity detected on file_477.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:22,410 - WARNING - Could not analyze C:\TestFiles\file_727.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:23,501 - WARNING - Suspicious activity detected on file_727.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:23,517 - WARNING - Could not analyze C:\TestFiles\file_574.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:24,611 - WARNING - Suspicious activity detected on file_574.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:28,345 - WARNING - Could not analyze C:\TestFiles\file_24.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:29,476 - WARNING - Suspicious activity detected on file_24.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:29,552 - WARNING - Could not analyze C:\TestFiles\file_94.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:30,639 - WARNING - Suspicious activity detected on file_94.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:30,651 - WARNING - Could not analyze C:\TestFiles\file_609.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:31,740 - WARNING - Suspicious activity detected on file_609.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:31,752 - WARNING - Could not analyze C:\TestFiles\file_751.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:32,900 - WARNING - Suspicious activity detected on file_751.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:33,000 - WARNING - Could not analyze C:\TestFiles\file_251.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:34,210 - WARNING - Suspicious activity detected on file_251.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:34,225 - WARNING - Could not analyze C:\TestFiles\file_545.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:35,455 - WARNING - Suspicious activity detected on file_545.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:35,474 - WARNING - Could not analyze C:\TestFiles\file_369.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:36,670 - WARNING - Suspicious activity detected on file_369.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:37,301 - WARNING - Could not analyze C:\TestFiles\file_206.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:38,593 - WARNING - Suspicious activity detected on file_206.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:38,611 - WARNING - Could not analyze C:\TestFiles\file_650.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:39,811 - WARNING - Suspicious activity detected on file_650.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:39,888 - WARNING - Could not analyze C:\TestFiles\file_342.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:41,112 - WARNING - Suspicious activity detected on file_342.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:41,122 - WARNING - Could not analyze C:\TestFiles\file_837.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:42,319 - WARNING - Suspicious activity detected on file_837.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:45,762 - WARNING - Could not analyze C:\TestFiles\file_972.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:47,087 - WARNING - Suspicious activity detected on file_972.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:47,103 - WARNING - Could not analyze C:\TestFiles\file_295.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:48,418 - WARNING - Suspicious activity detected on file_295.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:49,171 - WARNING - Could not analyze C:\TestFiles\file_627.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:50,506 - WARNING - Suspicious activity detected on file_627.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:50,534 - WARNING - Could not analyze C:\TestFiles\file_507.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:51,852 - WARNING - Suspicious activity detected on file_507.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:51,870 - WARNING - Could not analyze C:\TestFiles\file_935.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:53,186 - WARNING - Suspicious activity detected on file_935.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:54,697 - WARNING - Could not analyze C:\TestFiles\file_983.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:56,031 - WARNING - Suspicious activity detected on file_983.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:56,955 - WARNING - Could not analyze C:\TestFiles\file_789.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:58,200 - WARNING - Suspicious activity detected on file_789.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:58,216 - WARNING - Could not analyze C:\TestFiles\file_795.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:11:59,403 - WARNING - Suspicious activity detected on file_795.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:11:59,803 - WARNING - Could not analyze C:\TestFiles\file_851.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:00,992 - WARNING - Suspicious activity detected on file_851.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:02,165 - WARNING - Could not analyze C:\TestFiles\file_534.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:03,368 - WARNING - Suspicious activity detected on file_534.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:03,385 - WARNING - Could not analyze C:\TestFiles\file_387.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:04,576 - WARNING - Suspicious activity detected on file_387.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:04,592 - WARNING - Could not analyze C:\TestFiles\file_457.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:05,803 - WARNING - Suspicious activity detected on file_457.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:05,819 - WARNING - Could not analyze C:\TestFiles\file_521.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:07,010 - WARNING - Suspicious activity detected on file_521.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:07,023 - WARNING - Could not analyze C:\TestFiles\file_854.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:08,223 - WARNING - Suspicious activity detected on file_854.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:08,238 - WARNING - Could not analyze C:\TestFiles\file_586.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:09,303 - WARNING - Suspicious activity detected on file_586.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:09,316 - WARNING - Could not analyze C:\TestFiles\file_153.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:10,385 - WARNING - Suspicious activity detected on file_153.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:10,400 - WARNING - Could not analyze C:\TestFiles\file_83.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:11,466 - WARNING - Suspicious activity detected on file_83.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:11,917 - WARNING - Could not analyze C:\TestFiles\file_499.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:12,985 - WARNING - Suspicious activity detected on file_499.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:14,692 - WARNING - Could not analyze C:\TestFiles\file_258.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:15,777 - WARNING - Suspicious activity detected on file_258.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:16,514 - WARNING - Could not analyze C:\TestFiles\file_571.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:17,580 - WARNING - Suspicious activity detected on file_571.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:17,592 - WARNING - Could not analyze C:\TestFiles\file_737.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:18,656 - WARNING - Suspicious activity detected on file_737.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:19,359 - WARNING - Could not analyze C:\TestFiles\file_118.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:20,329 - WARNING - Suspicious activity detected on file_118.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:21,665 - WARNING - Could not analyze C:\TestFiles\file_18.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:22,625 - WARNING - Suspicious activity detected on file_18.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:23,207 - WARNING - Could not analyze C:\TestFiles\file_169.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:24,205 - WARNING - Suspicious activity detected on file_169.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:24,218 - WARNING - Could not analyze C:\TestFiles\file_218.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:25,179 - WARNING - Suspicious activity detected on file_218.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:25,190 - WARNING - Could not analyze C:\TestFiles\file_234.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:26,149 - WARNING - Suspicious activity detected on file_234.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:27,417 - WARNING - Could not analyze C:\TestFiles\file_765.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:28,330 - WARNING - Suspicious activity detected on file_765.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:28,781 - WARNING - Could not analyze C:\TestFiles\file_169.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:29,646 - WARNING - Suspicious activity detected on file_169.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:29,771 - WARNING - Could not analyze C:\TestFiles\file_271.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:30,638 - WARNING - Suspicious activity detected on file_271.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:30,981 - WARNING - Could not analyze C:\TestFiles\file_797.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:31,845 - WARNING - Suspicious activity detected on file_797.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:31,859 - WARNING - Could not analyze C:\TestFiles\file_152.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:32,721 - WARNING - Suspicious activity detected on file_152.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:32,732 - WARNING - Could not analyze C:\TestFiles\file_96.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:33,598 - WARNING - Suspicious activity detected on file_96.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:33,608 - WARNING - Could not analyze C:\TestFiles\file_855.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:34,472 - WARNING - Suspicious activity detected on file_855.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:34,914 - WARNING - Could not analyze C:\TestFiles\file_842.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:35,780 - WARNING - Suspicious activity detected on file_842.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:36,209 - WARNING - Could not analyze C:\TestFiles\file_213.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:36,992 - WARNING - Suspicious activity detected on file_213.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:37,408 - WARNING - Could not analyze C:\TestFiles\file_203.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:38,192 - WARNING - Suspicious activity detected on file_203.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:39,526 - WARNING - Could not analyze C:\TestFiles\file_660.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:40,305 - WARNING - Suspicious activity detected on file_660.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:41,672 - WARNING - Could not analyze C:\TestFiles\file_261.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:42,457 - WARNING - Suspicious activity detected on file_261.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:43,504 - WARNING - Could not analyze C:\TestFiles\file_362.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:44,333 - WARNING - Suspicious activity detected on file_362.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:44,538 - WARNING - Could not analyze C:\TestFiles\file_147.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:45,393 - WARNING - Suspicious activity detected on file_147.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:45,404 - WARNING - Could not analyze C:\TestFiles\file_918.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:46,258 - WARNING - Suspicious activity detected on file_918.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:46,269 - WARNING - Could not analyze C:\TestFiles\file_271.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:47,123 - WARNING - Suspicious activity detected on file_271.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:47,134 - WARNING - Could not analyze C:\TestFiles\file_486.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:47,989 - WARNING - Suspicious activity detected on file_486.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:47,997 - WARNING - Could not analyze C:\TestFiles\file_937.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:48,852 - WARNING - Suspicious activity detected on file_937.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:50,401 - WARNING - Could not analyze C:\TestFiles\file_400.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:51,257 - WARNING - Suspicious activity detected on file_400.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:53,158 - WARNING - Could not analyze C:\TestFiles\file_797.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:54,111 - WARNING - Suspicious activity detected on file_797.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:54,122 - WARNING - Could not analyze C:\TestFiles\file_602.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:55,065 - WARNING - Suspicious activity detected on file_602.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:55,083 - WARNING - Could not analyze C:\TestFiles\file_592.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:56,037 - WARNING - Suspicious activity detected on file_592.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:56,050 - WARNING - Could not analyze C:\TestFiles\file_428.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:56,991 - WARNING - Suspicious activity detected on file_428.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:57,003 - WARNING - Could not analyze C:\TestFiles\file_561.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:57,945 - WARNING - Suspicious activity detected on file_561.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:58,901 - WARNING - Could not analyze C:\TestFiles\file_283.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:12:59,841 - WARNING - Suspicious activity detected on file_283.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:12:59,853 - WARNING - Could not analyze C:\TestFiles\file_88.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:00,794 - WARNING - Suspicious activity detected on file_88.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:00,806 - WARNING - Could not analyze C:\TestFiles\file_798.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:01,804 - WARNING - Suspicious activity detected on file_798.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:03,094 - WARNING - Could not analyze C:\TestFiles\file_185.docx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:04,139 - WARNING - Suspicious activity detected on file_185.docx.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:13:05,167 - WARNING - Could not analyze C:\TestFiles\file_160.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:06,205 - WARNING - Suspicious activity detected on file_160.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:06,217 - WARNING - Could not analyze C:\TestFiles\file_15.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:07,256 - WARNING - Suspicious activity detected on file_15.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:07,278 - WARNING - Could not analyze C:\TestFiles\file_306.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:08,312 - WARNING - Suspicious activity detected on file_306.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:08,889 - WARNING - Could not analyze C:\TestFiles\file_324.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:09,930 - WARNING - Suspicious activity detected on file_324.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:14,168 - WARNING - Could not analyze C:\TestFiles\file_394.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:15,312 - WARNING - Suspicious activity detected on file_394.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:15,941 - WARNING - Could not analyze C:\TestFiles\file_47.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:17,084 - WARNING - Suspicious activity detected on file_47.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:17,096 - WARNING - Could not analyze C:\TestFiles\file_962.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:18,264 - WARNING - Suspicious activity detected on file_962.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:18,280 - WARNING - Could not analyze C:\TestFiles\file_643.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:19,410 - WARNING - Suspicious activity detected on file_643.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:19,426 - WARNING - Could not analyze C:\TestFiles\file_385.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:20,592 - WARNING - Suspicious activity detected on file_385.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:20,609 - WARNING - Could not analyze C:\TestFiles\file_6.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:21,749 - WARNING - Suspicious activity detected on file_6.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:21,763 - WARNING - Could not analyze C:\TestFiles\file_392.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:22,971 - WARNING - Suspicious activity detected on file_392.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:22,986 - WARNING - Could not analyze C:\TestFiles\file_568.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:24,239 - WARNING - Suspicious activity detected on file_568.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:24,254 - WARNING - Could not analyze C:\TestFiles\file_298.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:25,504 - WARNING - Suspicious activity detected on file_298.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:25,522 - WARNING - Could not analyze C:\TestFiles\file_315.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:26,789 - WARNING - Suspicious activity detected on file_315.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:13:26,809 - WARNING - Could not analyze C:\TestFiles\file_206.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:13:28,063 - WARNING - Suspicious activity detected on file_206.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:16:34,674 - WARNING - Could not analyze C:\TestFiles\file_225.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:35,627 - WARNING - Suspicious activity detected on file_225.docx. Indicators: ['ml_anomaly']. Score: 2/10
+2025-04-25 05:16:44,431 - WARNING - Could not analyze C:\TestFiles\file_507.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:45,287 - WARNING - Suspicious activity detected on file_507.xlsx. Indicators: ['ml_anomaly']. Score: 4/10
+2025-04-25 05:16:46,219 - WARNING - Could not analyze C:\TestFiles\file_410.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:47,077 - WARNING - Could not analyze C:\TestFiles\file_312.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:47,914 - WARNING - Suspicious activity detected on file_312.xlsx. Indicators: ['ml_anomaly']. Score: 6/10
+2025-04-25 05:16:49,410 - WARNING - Suspicious activity detected on file_295.pdf. Indicators: ['high_entropy', 'ml_anomaly']. Score: 10/10
+2025-04-25 05:16:49,411 - CRITICAL - ACTIVATING DEFENSIVE MEASURES!
+2025-04-25 05:16:49,733 - WARNING - Could not analyze C:\TestFiles\file_0.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,734 - WARNING - Could not analyze C:\TestFiles\file_1.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,734 - WARNING - Could not analyze C:\TestFiles\file_1.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,735 - WARNING - Could not analyze C:\TestFiles\file_10.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,736 - WARNING - Could not analyze C:\TestFiles\file_102.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,736 - WARNING - Could not analyze C:\TestFiles\file_102.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,737 - WARNING - Could not analyze C:\TestFiles\file_111.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,739 - WARNING - Could not analyze C:\TestFiles\file_112.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,739 - WARNING - Could not analyze C:\TestFiles\file_112.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,740 - WARNING - Could not analyze C:\TestFiles\file_116.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,741 - WARNING - Could not analyze C:\TestFiles\file_118.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,742 - WARNING - Could not analyze C:\TestFiles\file_12.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,742 - WARNING - Could not analyze C:\TestFiles\file_136.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,743 - WARNING - Could not analyze C:\TestFiles\file_138.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,751 - WARNING - Could not analyze C:\TestFiles\file_140.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,752 - WARNING - Could not analyze C:\TestFiles\file_142.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,753 - WARNING - Could not analyze C:\TestFiles\file_147.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,753 - WARNING - Could not analyze C:\TestFiles\file_15.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,754 - WARNING - Could not analyze C:\TestFiles\file_152.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,755 - WARNING - Could not analyze C:\TestFiles\file_153.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,756 - WARNING - Could not analyze C:\TestFiles\file_158.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,757 - WARNING - Could not analyze C:\TestFiles\file_160.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,757 - WARNING - Could not analyze C:\TestFiles\file_169.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,758 - WARNING - Could not analyze C:\TestFiles\file_169.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,758 - WARNING - Could not analyze C:\TestFiles\file_175.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,759 - WARNING - Could not analyze C:\TestFiles\file_18.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,760 - WARNING - Could not analyze C:\TestFiles\file_185.docx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,767 - WARNING - Could not analyze C:\TestFiles\file_187.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,774 - WARNING - Could not analyze C:\TestFiles\file_188.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,774 - WARNING - Could not analyze C:\TestFiles\file_188.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,775 - WARNING - Could not analyze C:\TestFiles\file_189.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,776 - WARNING - Could not analyze C:\TestFiles\file_2.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,777 - WARNING - Could not analyze C:\TestFiles\file_203.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,783 - WARNING - Could not analyze C:\TestFiles\file_205.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,784 - WARNING - Could not analyze C:\TestFiles\file_206.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,785 - WARNING - Could not analyze C:\TestFiles\file_206.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,787 - WARNING - Could not analyze C:\TestFiles\file_208.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,788 - WARNING - Could not analyze C:\TestFiles\file_21.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,788 - WARNING - Could not analyze C:\TestFiles\file_213.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,789 - WARNING - Could not analyze C:\TestFiles\file_218.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,790 - WARNING - Could not analyze C:\TestFiles\file_219.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,791 - WARNING - Could not analyze C:\TestFiles\file_221.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,792 - WARNING - Could not analyze C:\TestFiles\file_224.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,793 - WARNING - Could not analyze C:\TestFiles\file_225.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,801 - WARNING - Could not analyze C:\TestFiles\file_225.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,802 - WARNING - Could not analyze C:\TestFiles\file_226.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,803 - WARNING - Could not analyze C:\TestFiles\file_234.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,803 - WARNING - Could not analyze C:\TestFiles\file_24.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,804 - WARNING - Could not analyze C:\TestFiles\file_240.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,805 - WARNING - Could not analyze C:\TestFiles\file_247.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,805 - WARNING - Could not analyze C:\TestFiles\file_251.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,807 - WARNING - Could not analyze C:\TestFiles\file_258.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,808 - WARNING - Could not analyze C:\TestFiles\file_260.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,809 - WARNING - Could not analyze C:\TestFiles\file_261.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,809 - WARNING - Could not analyze C:\TestFiles\file_265.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,810 - WARNING - Could not analyze C:\TestFiles\file_271.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,811 - WARNING - Could not analyze C:\TestFiles\file_271.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,812 - WARNING - Could not analyze C:\TestFiles\file_273.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,813 - WARNING - Could not analyze C:\TestFiles\file_283.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,813 - WARNING - Could not analyze C:\TestFiles\file_283.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,814 - WARNING - Could not analyze C:\TestFiles\file_284.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,820 - WARNING - Could not analyze C:\TestFiles\file_295.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,820 - WARNING - Could not analyze C:\TestFiles\file_298.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,821 - WARNING - Could not analyze C:\TestFiles\file_3.jpg.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,830 - WARNING - Could not analyze C:\TestFiles\file_305.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,831 - WARNING - Could not analyze C:\TestFiles\file_306.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,838 - WARNING - Could not analyze C:\TestFiles\file_306.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,839 - WARNING - Could not analyze C:\TestFiles\file_312.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,839 - WARNING - Could not analyze C:\TestFiles\file_315.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,846 - WARNING - Could not analyze C:\TestFiles\file_316.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,847 - WARNING - Could not analyze C:\TestFiles\file_324.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,853 - WARNING - Could not analyze C:\TestFiles\file_328.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,854 - WARNING - Could not analyze C:\TestFiles\file_332.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,861 - WARNING - Could not analyze C:\TestFiles\file_336.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,862 - WARNING - Could not analyze C:\TestFiles\file_337.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,862 - WARNING - Could not analyze C:\TestFiles\file_342.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,868 - WARNING - Could not analyze C:\TestFiles\file_343.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,875 - WARNING - Could not analyze C:\TestFiles\file_352.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,875 - WARNING - Could not analyze C:\TestFiles\file_354.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,876 - WARNING - Could not analyze C:\TestFiles\file_357.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,877 - WARNING - Could not analyze C:\TestFiles\file_362.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,877 - WARNING - Could not analyze C:\TestFiles\file_368.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,878 - WARNING - Could not analyze C:\TestFiles\file_369.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,878 - WARNING - Could not analyze C:\TestFiles\file_374.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,884 - WARNING - Could not analyze C:\TestFiles\file_380.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,885 - WARNING - Could not analyze C:\TestFiles\file_384.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,886 - WARNING - Could not analyze C:\TestFiles\file_385.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,886 - WARNING - Could not analyze C:\TestFiles\file_387.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,887 - WARNING - Could not analyze C:\TestFiles\file_390.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,887 - WARNING - Could not analyze C:\TestFiles\file_392.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,888 - WARNING - Could not analyze C:\TestFiles\file_394.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,889 - WARNING - Could not analyze C:\TestFiles\file_4.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,889 - WARNING - Could not analyze C:\TestFiles\file_400.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,896 - WARNING - Could not analyze C:\TestFiles\file_402.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,897 - WARNING - Could not analyze C:\TestFiles\file_402.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,898 - WARNING - Could not analyze C:\TestFiles\file_410.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,899 - WARNING - Could not analyze C:\TestFiles\file_415.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,900 - WARNING - Could not analyze C:\TestFiles\file_418.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,900 - WARNING - Could not analyze C:\TestFiles\file_428.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,901 - WARNING - Could not analyze C:\TestFiles\file_447.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,902 - WARNING - Could not analyze C:\TestFiles\file_453.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,902 - WARNING - Could not analyze C:\TestFiles\file_454.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,903 - WARNING - Could not analyze C:\TestFiles\file_455.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,904 - WARNING - Could not analyze C:\TestFiles\file_455.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,904 - WARNING - Could not analyze C:\TestFiles\file_457.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,905 - WARNING - Could not analyze C:\TestFiles\file_464.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,912 - WARNING - Could not analyze C:\TestFiles\file_465.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,918 - WARNING - Could not analyze C:\TestFiles\file_467.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,919 - WARNING - Could not analyze C:\TestFiles\file_47.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,920 - WARNING - Could not analyze C:\TestFiles\file_476.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,921 - WARNING - Could not analyze C:\TestFiles\file_477.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,922 - WARNING - Could not analyze C:\TestFiles\file_486.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,922 - WARNING - Could not analyze C:\TestFiles\file_486.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,923 - WARNING - Could not analyze C:\TestFiles\file_488.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,925 - WARNING - Could not analyze C:\TestFiles\file_49.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,933 - WARNING - Could not analyze C:\TestFiles\file_491.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,934 - WARNING - Could not analyze C:\TestFiles\file_499.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,935 - WARNING - Could not analyze C:\TestFiles\file_5.txt.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,935 - WARNING - Could not analyze C:\TestFiles\file_507.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,936 - WARNING - Could not analyze C:\TestFiles\file_507.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,937 - WARNING - Could not analyze C:\TestFiles\file_521.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,938 - WARNING - Could not analyze C:\TestFiles\file_530.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,939 - WARNING - Could not analyze C:\TestFiles\file_534.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,940 - WARNING - Could not analyze C:\TestFiles\file_535.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,941 - WARNING - Could not analyze C:\TestFiles\file_538.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,941 - WARNING - Could not analyze C:\TestFiles\file_545.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,948 - WARNING - Could not analyze C:\TestFiles\file_548.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,950 - WARNING - Could not analyze C:\TestFiles\file_548.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,950 - WARNING - Could not analyze C:\TestFiles\file_561.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,951 - WARNING - Could not analyze C:\TestFiles\file_568.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,952 - WARNING - Could not analyze C:\TestFiles\file_571.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,953 - WARNING - Could not analyze C:\TestFiles\file_574.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,954 - WARNING - Could not analyze C:\TestFiles\file_575.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,955 - WARNING - Could not analyze C:\TestFiles\file_586.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,956 - WARNING - Could not analyze C:\TestFiles\file_588.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,957 - WARNING - Could not analyze C:\TestFiles\file_592.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,958 - WARNING - Could not analyze C:\TestFiles\file_6.docx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,958 - WARNING - Could not analyze C:\TestFiles\file_6.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,959 - WARNING - Could not analyze C:\TestFiles\file_602.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,960 - WARNING - Could not analyze C:\TestFiles\file_604.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,961 - WARNING - Could not analyze C:\TestFiles\file_605.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,962 - WARNING - Could not analyze C:\TestFiles\file_609.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,962 - WARNING - Could not analyze C:\TestFiles\file_615.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,969 - WARNING - Could not analyze C:\TestFiles\file_624.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,970 - WARNING - Could not analyze C:\TestFiles\file_627.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,971 - WARNING - Could not analyze C:\TestFiles\file_629.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,972 - WARNING - Could not analyze C:\TestFiles\file_631.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,972 - WARNING - Could not analyze C:\TestFiles\file_634.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,973 - WARNING - Could not analyze C:\TestFiles\file_635.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,974 - WARNING - Could not analyze C:\TestFiles\file_636.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,975 - WARNING - Could not analyze C:\TestFiles\file_643.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,981 - WARNING - Could not analyze C:\TestFiles\file_644.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,983 - WARNING - Could not analyze C:\TestFiles\file_650.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,984 - WARNING - Could not analyze C:\TestFiles\file_660.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,984 - WARNING - Could not analyze C:\TestFiles\file_665.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,985 - WARNING - Could not analyze C:\TestFiles\file_676.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,986 - WARNING - Could not analyze C:\TestFiles\file_680.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,988 - WARNING - Could not analyze C:\TestFiles\file_686.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,989 - WARNING - Could not analyze C:\TestFiles\file_69.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,989 - WARNING - Could not analyze C:\TestFiles\file_7.pdf.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,990 - WARNING - Could not analyze C:\TestFiles\file_703.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,991 - WARNING - Could not analyze C:\TestFiles\file_707.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,992 - WARNING - Could not analyze C:\TestFiles\file_707.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,993 - WARNING - Could not analyze C:\TestFiles\file_711.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,994 - WARNING - Could not analyze C:\TestFiles\file_726.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,994 - WARNING - Could not analyze C:\TestFiles\file_727.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,995 - WARNING - Could not analyze C:\TestFiles\file_737.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,996 - WARNING - Could not analyze C:\TestFiles\file_750.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,997 - WARNING - Could not analyze C:\TestFiles\file_751.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,997 - WARNING - Could not analyze C:\TestFiles\file_752.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,998 - WARNING - Could not analyze C:\TestFiles\file_765.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,999 - WARNING - Could not analyze C:\TestFiles\file_779.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:49,999 - WARNING - Could not analyze C:\TestFiles\file_785.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,000 - WARNING - Could not analyze C:\TestFiles\file_789.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,002 - WARNING - Could not analyze C:\TestFiles\file_795.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,003 - WARNING - Could not analyze C:\TestFiles\file_797.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,003 - WARNING - Could not analyze C:\TestFiles\file_798.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,004 - WARNING - Could not analyze C:\TestFiles\file_8.txt.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,010 - WARNING - Could not analyze C:\TestFiles\file_808.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,011 - WARNING - Could not analyze C:\TestFiles\file_828.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,012 - WARNING - Could not analyze C:\TestFiles\file_83.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,013 - WARNING - Could not analyze C:\TestFiles\file_836.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,014 - WARNING - Could not analyze C:\TestFiles\file_837.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,014 - WARNING - Could not analyze C:\TestFiles\file_842.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,015 - WARNING - Could not analyze C:\TestFiles\file_846.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,016 - WARNING - Could not analyze C:\TestFiles\file_849.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,017 - WARNING - Could not analyze C:\TestFiles\file_851.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,018 - WARNING - Could not analyze C:\TestFiles\file_854.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,018 - WARNING - Could not analyze C:\TestFiles\file_854.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,019 - WARNING - Could not analyze C:\TestFiles\file_855.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,021 - WARNING - Could not analyze C:\TestFiles\file_857.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,022 - WARNING - Could not analyze C:\TestFiles\file_867.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,030 - WARNING - Could not analyze C:\TestFiles\file_867.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,031 - WARNING - Could not analyze C:\TestFiles\file_87.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,032 - WARNING - Could not analyze C:\TestFiles\file_87.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,033 - WARNING - Could not analyze C:\TestFiles\file_870.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,193 - WARNING - Could not analyze C:\TestFiles\file_876.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,195 - WARNING - Could not analyze C:\TestFiles\file_877.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,195 - WARNING - Could not analyze C:\TestFiles\file_88.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,196 - WARNING - Could not analyze C:\TestFiles\file_889.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,198 - WARNING - Could not analyze C:\TestFiles\file_896.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,199 - WARNING - Could not analyze C:\TestFiles\file_9.txt.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,199 - WARNING - Could not analyze C:\TestFiles\file_911.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,201 - WARNING - Could not analyze C:\TestFiles\file_918.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,206 - WARNING - Could not analyze C:\TestFiles\file_92.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,214 - WARNING - Could not analyze C:\TestFiles\file_924.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,215 - WARNING - Could not analyze C:\TestFiles\file_925.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,222 - WARNING - Could not analyze C:\TestFiles\file_927.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,222 - WARNING - Could not analyze C:\TestFiles\file_935.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,223 - WARNING - Could not analyze C:\TestFiles\file_937.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,224 - WARNING - Could not analyze C:\TestFiles\file_937.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,225 - WARNING - Could not analyze C:\TestFiles\file_94.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,225 - WARNING - Could not analyze C:\TestFiles\file_944.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,226 - WARNING - Could not analyze C:\TestFiles\file_948.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,226 - WARNING - Could not analyze C:\TestFiles\file_96.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,228 - WARNING - Could not analyze C:\TestFiles\file_962.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,228 - WARNING - Could not analyze C:\TestFiles\file_964.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,229 - WARNING - Could not analyze C:\TestFiles\file_966.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,229 - WARNING - Could not analyze C:\TestFiles\file_972.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,230 - WARNING - Could not analyze C:\TestFiles\file_983.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:50,740 - CRITICAL - Defensive actions taken: ['Terminated 0 processes', 'Quarantined 0 files', 'Network disabled', 'System locked', 'No admin email configured']
+2025-04-25 05:16:50,741 - WARNING - Could not analyze C:\TestFiles\file_295.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:51,885 - WARNING - Suspicious activity detected on file_295.pdf. Indicators: ['ml_anomaly']. Score: 7/10
+2025-04-25 05:16:51,902 - WARNING - Could not analyze C:\TestFiles\file_380.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:52,767 - WARNING - Suspicious activity detected on file_380.xlsx. Indicators: ['ml_anomaly']. Score: 9/10
+2025-04-25 05:16:52,810 - WARNING - Could not analyze C:\TestFiles\file_57.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:54,087 - WARNING - Suspicious activity detected on file_57.xlsx. Indicators: ['ml_anomaly']. Score: 11/10
+2025-04-25 05:16:54,486 - WARNING - Could not analyze C:\TestFiles\file_89.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:55,335 - WARNING - Suspicious activity detected on file_89.xlsx. Indicators: ['ml_anomaly']. Score: 13/10
+2025-04-25 05:16:55,346 - WARNING - Could not analyze C:\TestFiles\file_432.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:56,176 - WARNING - Suspicious activity detected on file_432.jpg. Indicators: ['ml_anomaly']. Score: 15/10
+2025-04-25 05:16:57,547 - WARNING - Could not analyze C:\TestFiles\file_206.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:58,254 - WARNING - Suspicious activity detected on file_206.jpg. Indicators: ['ml_anomaly']. Score: 17/10
+2025-04-25 05:16:58,398 - WARNING - Could not analyze C:\TestFiles\file_265.png.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:16:59,082 - WARNING - Suspicious activity detected on file_265.png.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:16:59,496 - WARNING - Could not analyze C:\TestFiles\file_221.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:00,183 - WARNING - Suspicious activity detected on file_221.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:01,584 - WARNING - Could not analyze C:\TestFiles\file_56.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:02,269 - WARNING - Suspicious activity detected on file_56.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:02,455 - WARNING - Could not analyze C:\TestFiles\file_210.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:03,137 - WARNING - Suspicious activity detected on file_210.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:03,144 - WARNING - Could not analyze C:\TestFiles\file_814.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:03,873 - WARNING - Suspicious activity detected on file_814.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:03,880 - WARNING - Could not analyze C:\TestFiles\file_329.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:04,631 - WARNING - Suspicious activity detected on file_329.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:04,641 - WARNING - Could not analyze C:\TestFiles\file_370.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:05,392 - WARNING - Suspicious activity detected on file_370.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:07,186 - WARNING - Could not analyze C:\TestFiles\file_190.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:07,948 - WARNING - Suspicious activity detected on file_190.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:08,985 - WARNING - Could not analyze C:\TestFiles\file_992.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:09,737 - WARNING - Suspicious activity detected on file_992.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:09,860 - WARNING - Could not analyze C:\TestFiles\file_910.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:10,611 - WARNING - Suspicious activity detected on file_910.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:11,587 - WARNING - Could not analyze C:\TestFiles\file_623.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:12,433 - WARNING - Suspicious activity detected on file_623.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:12,445 - WARNING - Could not analyze C:\TestFiles\file_386.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:13,273 - WARNING - Suspicious activity detected on file_386.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:13,299 - WARNING - Could not analyze C:\TestFiles\file_273.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:14,135 - WARNING - Suspicious activity detected on file_273.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:14,149 - WARNING - Could not analyze C:\TestFiles\file_163.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:14,996 - WARNING - Suspicious activity detected on file_163.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:15,005 - WARNING - Could not analyze C:\TestFiles\file_373.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:15,830 - WARNING - Suspicious activity detected on file_373.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:15,845 - WARNING - Could not analyze C:\TestFiles\file_307.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:16,674 - WARNING - Suspicious activity detected on file_307.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:16,684 - WARNING - Could not analyze C:\TestFiles\file_736.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:17,511 - WARNING - Suspicious activity detected on file_736.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:17,525 - WARNING - Could not analyze C:\TestFiles\file_988.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:18,348 - WARNING - Suspicious activity detected on file_988.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:19,736 - WARNING - Could not analyze C:\TestFiles\file_572.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:20,671 - WARNING - Suspicious activity detected on file_572.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:20,683 - WARNING - Could not analyze C:\TestFiles\file_623.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:21,620 - WARNING - Suspicious activity detected on file_623.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:21,628 - WARNING - Could not analyze C:\TestFiles\file_631.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:22,545 - WARNING - Suspicious activity detected on file_631.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:22,559 - WARNING - Could not analyze C:\TestFiles\file_270.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:23,469 - WARNING - Suspicious activity detected on file_270.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:23,480 - WARNING - Could not analyze C:\TestFiles\file_696.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:24,389 - WARNING - Suspicious activity detected on file_696.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:24,403 - WARNING - Could not analyze C:\TestFiles\file_600.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:25,315 - WARNING - Suspicious activity detected on file_600.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:25,329 - WARNING - Could not analyze C:\TestFiles\file_984.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:26,236 - WARNING - Suspicious activity detected on file_984.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:26,245 - WARNING - Could not analyze C:\TestFiles\file_758.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:27,155 - WARNING - Suspicious activity detected on file_758.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:27,168 - WARNING - Could not analyze C:\TestFiles\file_560.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:28,135 - WARNING - Suspicious activity detected on file_560.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:28,162 - WARNING - Could not analyze C:\TestFiles\file_568.png.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:29,157 - WARNING - Suspicious activity detected on file_568.png.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:17:29,167 - WARNING - Could not analyze C:\TestFiles\file_631.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:30,164 - WARNING - Suspicious activity detected on file_631.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:30,775 - WARNING - Could not analyze C:\TestFiles\file_9.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:31,788 - WARNING - Suspicious activity detected on file_9.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:31,803 - WARNING - Could not analyze C:\TestFiles\file_535.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:32,804 - WARNING - Suspicious activity detected on file_535.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:32,815 - WARNING - Could not analyze C:\TestFiles\file_308.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:33,815 - WARNING - Suspicious activity detected on file_308.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:33,830 - WARNING - Could not analyze C:\TestFiles\file_416.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:34,830 - WARNING - Suspicious activity detected on file_416.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:34,844 - WARNING - Could not analyze C:\TestFiles\file_173.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:35,856 - WARNING - Suspicious activity detected on file_173.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:35,873 - WARNING - Could not analyze C:\TestFiles\file_527.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:36,872 - WARNING - Suspicious activity detected on file_527.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:37,340 - WARNING - Could not analyze C:\TestFiles\file_489.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:38,488 - WARNING - Suspicious activity detected on file_489.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:38,506 - WARNING - Could not analyze C:\TestFiles\file_837.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:39,605 - WARNING - Suspicious activity detected on file_837.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:40,651 - WARNING - Could not analyze C:\TestFiles\file_389.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:41,762 - WARNING - Suspicious activity detected on file_389.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:41,774 - WARNING - Could not analyze C:\TestFiles\file_236.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:42,873 - WARNING - Suspicious activity detected on file_236.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:42,875 - WARNING - Could not analyze C:\TestFiles\file_927.png.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:43,967 - WARNING - Suspicious activity detected on file_927.png.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:17:46,176 - WARNING - Could not analyze C:\TestFiles\file_280.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:47,275 - WARNING - Suspicious activity detected on file_280.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:48,815 - WARNING - Could not analyze C:\TestFiles\file_907.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:50,044 - WARNING - Suspicious activity detected on file_907.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:50,056 - WARNING - Could not analyze C:\TestFiles\file_525.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:51,270 - WARNING - Suspicious activity detected on file_525.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:51,271 - WARNING - Could not analyze C:\TestFiles\file_225.pdf.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:52,474 - WARNING - Suspicious activity detected on file_225.pdf.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:17:52,589 - WARNING - Could not analyze C:\TestFiles\file_564.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:53,811 - WARNING - Suspicious activity detected on file_564.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:55,561 - WARNING - Could not analyze C:\TestFiles\file_206.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:56,803 - WARNING - Suspicious activity detected on file_206.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:56,821 - WARNING - Could not analyze C:\TestFiles\file_985.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:58,031 - WARNING - Suspicious activity detected on file_985.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:58,048 - WARNING - Could not analyze C:\TestFiles\file_826.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:17:59,258 - WARNING - Suspicious activity detected on file_826.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:17:59,274 - WARNING - Could not analyze C:\TestFiles\file_266.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:00,572 - WARNING - Suspicious activity detected on file_266.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:00,589 - WARNING - Could not analyze C:\TestFiles\file_920.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:01,910 - WARNING - Suspicious activity detected on file_920.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:08,218 - WARNING - Could not analyze C:\TestFiles\file_138.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:09,550 - WARNING - Suspicious activity detected on file_138.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:09,563 - WARNING - Could not analyze C:\TestFiles\file_865.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:10,889 - WARNING - Suspicious activity detected on file_865.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:10,902 - WARNING - Could not analyze C:\TestFiles\file_562.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:12,227 - WARNING - Suspicious activity detected on file_562.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:12,229 - WARNING - Could not analyze C:\TestFiles\file_937.xlsx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:13,683 - WARNING - Suspicious activity detected on file_937.xlsx.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:18:13,708 - WARNING - Could not analyze C:\TestFiles\file_112.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:15,167 - WARNING - Suspicious activity detected on file_112.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:15,193 - WARNING - Could not analyze C:\TestFiles\file_564.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:16,655 - WARNING - Suspicious activity detected on file_564.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:16,670 - WARNING - Could not analyze C:\TestFiles\file_976.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:18,143 - WARNING - Suspicious activity detected on file_976.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:18,161 - WARNING - Could not analyze C:\TestFiles\file_90.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:19,637 - WARNING - Suspicious activity detected on file_90.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:19,671 - WARNING - Could not analyze C:\TestFiles\file_554.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:21,135 - WARNING - Suspicious activity detected on file_554.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:21,151 - WARNING - Could not analyze C:\TestFiles\file_974.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:22,606 - WARNING - Suspicious activity detected on file_974.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:23,113 - WARNING - Could not analyze C:\TestFiles\file_235.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:24,572 - WARNING - Suspicious activity detected on file_235.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:24,597 - WARNING - Could not analyze C:\TestFiles\file_312.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:26,061 - WARNING - Suspicious activity detected on file_312.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:26,083 - WARNING - Could not analyze C:\TestFiles\file_365.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:27,507 - WARNING - Suspicious activity detected on file_365.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:27,540 - WARNING - Could not analyze C:\TestFiles\file_112.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:28,855 - WARNING - Suspicious activity detected on file_112.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:28,870 - WARNING - Could not analyze C:\TestFiles\file_366.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:30,186 - WARNING - Suspicious activity detected on file_366.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:30,201 - WARNING - Could not analyze C:\TestFiles\file_585.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:31,518 - WARNING - Suspicious activity detected on file_585.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:31,535 - WARNING - Could not analyze C:\TestFiles\file_517.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:32,856 - WARNING - Suspicious activity detected on file_517.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:32,875 - WARNING - Could not analyze C:\TestFiles\file_512.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:34,186 - WARNING - Suspicious activity detected on file_512.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:34,205 - WARNING - Could not analyze C:\TestFiles\file_493.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:35,533 - WARNING - Suspicious activity detected on file_493.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:35,549 - WARNING - Could not analyze C:\TestFiles\file_34.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:36,860 - WARNING - Suspicious activity detected on file_34.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:39,857 - WARNING - Could not analyze C:\TestFiles\file_764.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:41,068 - WARNING - Suspicious activity detected on file_764.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:41,086 - WARNING - Could not analyze C:\TestFiles\file_280.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:42,339 - WARNING - Suspicious activity detected on file_280.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:42,351 - WARNING - Could not analyze C:\TestFiles\file_79.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:43,535 - WARNING - Suspicious activity detected on file_79.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:44,341 - WARNING - Could not analyze C:\TestFiles\file_417.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:45,530 - WARNING - Suspicious activity detected on file_417.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:47,015 - WARNING - Could not analyze C:\TestFiles\file_88.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:48,206 - WARNING - Suspicious activity detected on file_88.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:48,217 - WARNING - Could not analyze C:\TestFiles\file_97.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:49,398 - WARNING - Suspicious activity detected on file_97.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:49,408 - WARNING - Could not analyze C:\TestFiles\file_878.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:50,588 - WARNING - Suspicious activity detected on file_878.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:50,601 - WARNING - Could not analyze C:\TestFiles\file_766.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:51,723 - WARNING - Suspicious activity detected on file_766.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:51,736 - WARNING - Could not analyze C:\TestFiles\file_330.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:52,810 - WARNING - Suspicious activity detected on file_330.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:52,822 - WARNING - Could not analyze C:\TestFiles\file_754.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:53,883 - WARNING - Suspicious activity detected on file_754.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:53,895 - WARNING - Could not analyze C:\TestFiles\file_951.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:54,961 - WARNING - Suspicious activity detected on file_951.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:54,971 - WARNING - Could not analyze C:\TestFiles\file_703.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:56,034 - WARNING - Suspicious activity detected on file_703.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:56,049 - WARNING - Could not analyze C:\TestFiles\file_51.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:57,110 - WARNING - Suspicious activity detected on file_51.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:57,123 - WARNING - Could not analyze C:\TestFiles\file_550.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:58,186 - WARNING - Suspicious activity detected on file_550.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:58,196 - WARNING - Could not analyze C:\TestFiles\file_56.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:18:59,300 - WARNING - Suspicious activity detected on file_56.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:18:59,316 - WARNING - Could not analyze C:\TestFiles\file_970.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:00,377 - WARNING - Suspicious activity detected on file_970.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:00,388 - WARNING - Could not analyze C:\TestFiles\file_117.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:01,451 - WARNING - Suspicious activity detected on file_117.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:01,464 - WARNING - Could not analyze C:\TestFiles\file_635.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:02,423 - WARNING - Suspicious activity detected on file_635.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:02,433 - WARNING - Could not analyze C:\TestFiles\file_287.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:03,420 - WARNING - Suspicious activity detected on file_287.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:03,432 - WARNING - Could not analyze C:\TestFiles\file_54.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:04,391 - WARNING - Suspicious activity detected on file_54.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:04,403 - WARNING - Could not analyze C:\TestFiles\file_634.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:05,358 - WARNING - Suspicious activity detected on file_634.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:08,077 - WARNING - Could not analyze C:\TestFiles\file_298.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:09,043 - WARNING - Suspicious activity detected on file_298.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:09,641 - WARNING - Could not analyze C:\TestFiles\file_784.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:10,604 - WARNING - Suspicious activity detected on file_784.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:10,616 - WARNING - Could not analyze C:\TestFiles\file_534.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:11,500 - WARNING - Suspicious activity detected on file_534.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:11,510 - WARNING - Could not analyze C:\TestFiles\file_438.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:12,371 - WARNING - Suspicious activity detected on file_438.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:12,795 - WARNING - Could not analyze C:\TestFiles\file_722.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:13,660 - WARNING - Suspicious activity detected on file_722.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:16,590 - WARNING - Could not analyze C:\TestFiles\file_455.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:17,462 - WARNING - Suspicious activity detected on file_455.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:17,463 - WARNING - Could not analyze C:\TestFiles\file_948.pdf.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:18,323 - WARNING - Suspicious activity detected on file_948.pdf.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:19:18,584 - WARNING - Could not analyze C:\TestFiles\file_744.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:19,464 - WARNING - Suspicious activity detected on file_744.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:19,474 - WARNING - Could not analyze C:\TestFiles\file_662.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:20,252 - WARNING - Suspicious activity detected on file_662.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:20,261 - WARNING - Could not analyze C:\TestFiles\file_386.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:21,036 - WARNING - Suspicious activity detected on file_386.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:21,046 - WARNING - Could not analyze C:\TestFiles\file_681.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:21,821 - WARNING - Suspicious activity detected on file_681.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:21,830 - WARNING - Could not analyze C:\TestFiles\file_97.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:22,608 - WARNING - Suspicious activity detected on file_97.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:22,621 - WARNING - Could not analyze C:\TestFiles\file_379.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:23,399 - WARNING - Suspicious activity detected on file_379.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:24,157 - WARNING - Could not analyze C:\TestFiles\file_88.docx.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:24,942 - WARNING - Suspicious activity detected on file_88.docx.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:19:24,951 - WARNING - Could not analyze C:\TestFiles\file_877.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:25,731 - WARNING - Suspicious activity detected on file_877.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:25,740 - WARNING - Could not analyze C:\TestFiles\file_899.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:26,516 - WARNING - Suspicious activity detected on file_899.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:26,527 - WARNING - Could not analyze C:\TestFiles\file_340.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:27,248 - WARNING - Suspicious activity detected on file_340.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:27,257 - WARNING - Could not analyze C:\TestFiles\file_21.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:27,955 - WARNING - Suspicious activity detected on file_21.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:28,238 - WARNING - Could not analyze C:\TestFiles\file_632.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:28,938 - WARNING - Suspicious activity detected on file_632.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:29,096 - WARNING - Could not analyze C:\TestFiles\file_913.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:29,796 - WARNING - Suspicious activity detected on file_913.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:30,204 - WARNING - Could not analyze C:\TestFiles\file_572.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:30,908 - WARNING - Suspicious activity detected on file_572.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:30,909 - WARNING - Could not analyze C:\TestFiles\file_572.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:31,607 - WARNING - Suspicious activity detected on file_572.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:31,617 - WARNING - Could not analyze C:\TestFiles\file_883.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:32,314 - WARNING - Suspicious activity detected on file_883.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:34,606 - WARNING - Suspicious activity detected on file_87.txt. Indicators: ['high_entropy', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:19:34,615 - WARNING - Could not analyze C:\TestFiles\file_87.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:35,383 - WARNING - Suspicious activity detected on file_87.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:35,392 - WARNING - Could not analyze C:\TestFiles\file_438.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:36,161 - WARNING - Suspicious activity detected on file_438.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:36,170 - WARNING - Could not analyze C:\TestFiles\file_555.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:36,939 - WARNING - Suspicious activity detected on file_555.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:36,951 - WARNING - Could not analyze C:\TestFiles\file_890.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:37,766 - WARNING - Suspicious activity detected on file_890.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:37,776 - WARNING - Could not analyze C:\TestFiles\file_57.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:38,546 - WARNING - Suspicious activity detected on file_57.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:38,558 - WARNING - Could not analyze C:\TestFiles\file_620.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:39,324 - WARNING - Suspicious activity detected on file_620.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:39,330 - WARNING - Could not analyze C:\TestFiles\file_426.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:40,099 - WARNING - Suspicious activity detected on file_426.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:40,112 - WARNING - Could not analyze C:\TestFiles\file_736.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:40,878 - WARNING - Suspicious activity detected on file_736.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:40,887 - WARNING - Could not analyze C:\TestFiles\file_684.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:41,990 - WARNING - Could not analyze C:\TestFiles\file_283.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:42,835 - WARNING - Suspicious activity detected on file_283.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:42,842 - WARNING - Could not analyze C:\TestFiles\file_460.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:43,694 - WARNING - Could not analyze C:\TestFiles\file_567.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:44,537 - WARNING - Suspicious activity detected on file_567.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:44,559 - WARNING - Could not analyze C:\TestFiles\file_423.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:45,402 - WARNING - Suspicious activity detected on file_423.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:47,133 - WARNING - Suspicious activity detected on file_795.png. Indicators: ['high_entropy', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:19:47,142 - WARNING - Could not analyze C:\TestFiles\file_795.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:48,105 - WARNING - Could not analyze C:\TestFiles\file_458.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:48,959 - WARNING - Suspicious activity detected on file_458.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:48,970 - WARNING - Could not analyze C:\TestFiles\file_81.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:49,880 - WARNING - Suspicious activity detected on file_81.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:49,891 - WARNING - Could not analyze C:\TestFiles\file_440.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:50,826 - WARNING - Could not analyze C:\TestFiles\file_982.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:51,758 - WARNING - Suspicious activity detected on file_982.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:54,193 - WARNING - Could not analyze C:\TestFiles\file_892.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:55,140 - WARNING - Could not analyze C:\TestFiles\file_133.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:56,078 - WARNING - Could not analyze C:\TestFiles\file_319.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:57,006 - WARNING - Suspicious activity detected on file_319.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:57,015 - WARNING - Could not analyze C:\TestFiles\file_903.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:57,946 - WARNING - Suspicious activity detected on file_903.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:57,958 - WARNING - Could not analyze C:\TestFiles\file_995.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:58,948 - WARNING - Suspicious activity detected on file_995.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:58,959 - WARNING - Could not analyze C:\TestFiles\file_283.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:19:59,979 - WARNING - Suspicious activity detected on file_283.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:19:59,989 - WARNING - Could not analyze C:\TestFiles\file_428.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:01,009 - WARNING - Suspicious activity detected on file_428.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:01,019 - WARNING - Could not analyze C:\TestFiles\file_515.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:02,048 - WARNING - Could not analyze C:\TestFiles\file_462.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:03,071 - WARNING - Suspicious activity detected on file_462.xlsx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:03,084 - WARNING - Could not analyze C:\TestFiles\file_342.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:04,103 - WARNING - Suspicious activity detected on file_342.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:04,113 - WARNING - Could not analyze C:\TestFiles\file_257.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:05,152 - WARNING - Could not analyze C:\TestFiles\file_473.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:06,174 - WARNING - Suspicious activity detected on file_473.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:06,186 - WARNING - Could not analyze C:\TestFiles\file_475.png: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:07,203 - WARNING - Suspicious activity detected on file_475.png. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:07,213 - WARNING - Could not analyze C:\TestFiles\file_552.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:08,238 - WARNING - Suspicious activity detected on file_552.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:08,254 - WARNING - Could not analyze C:\TestFiles\file_904.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:09,376 - WARNING - Suspicious activity detected on file_904.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:11,726 - WARNING - Could not analyze C:\TestFiles\file_105.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:12,863 - WARNING - Suspicious activity detected on file_105.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:12,884 - WARNING - Could not analyze C:\TestFiles\file_628.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:14,081 - WARNING - Could not analyze C:\TestFiles\file_987.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:15,212 - WARNING - Suspicious activity detected on file_987.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:15,226 - WARNING - Could not analyze C:\TestFiles\file_89.txt: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:16,354 - WARNING - Suspicious activity detected on file_89.txt. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:16,366 - WARNING - Could not analyze C:\TestFiles\file_470.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:17,487 - WARNING - Suspicious activity detected on file_470.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:17,502 - WARNING - Could not analyze C:\TestFiles\file_172.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:18,644 - WARNING - Could not analyze C:\TestFiles\file_206.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:19,835 - WARNING - Suspicious activity detected on file_206.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:19,854 - WARNING - Could not analyze C:\TestFiles\file_920.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:21,088 - WARNING - Suspicious activity detected on file_920.pdf. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:24,758 - WARNING - Could not analyze C:\TestFiles\file_339.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:26,003 - WARNING - Could not analyze C:\TestFiles\file_307.pdf.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:27,243 - WARNING - Suspicious activity detected on file_307.pdf.encrypted. Indicators: ['suspicious_extension']. Score: 20/10
+2025-04-25 05:20:27,255 - WARNING - Could not analyze C:\TestFiles\file_562.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:28,495 - WARNING - Suspicious activity detected on file_562.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:28,508 - WARNING - Could not analyze C:\TestFiles\file_532.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:29,873 - WARNING - Could not analyze C:\TestFiles\file_626.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:31,127 - WARNING - Suspicious activity detected on file_626.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:36,155 - WARNING - Could not analyze C:\TestFiles\file_541.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:37,523 - WARNING - Suspicious activity detected on file_541.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:38,627 - WARNING - Could not analyze C:\TestFiles\file_651.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:40,036 - WARNING - Could not analyze C:\TestFiles\file_768.docx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:41,395 - WARNING - Suspicious activity detected on file_768.docx. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:41,488 - WARNING - Could not analyze C:\TestFiles\file_987.pdf: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:42,878 - WARNING - Could not analyze C:\TestFiles\file_535.pdf.encrypted: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:44,236 - WARNING - Suspicious activity detected on file_535.pdf.encrypted. Indicators: ['suspicious_extension', 'ml_anomaly']. Score: 20/10
+2025-04-25 05:20:44,250 - WARNING - Could not analyze C:\TestFiles\file_259.jpg: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:45,732 - WARNING - Suspicious activity detected on file_259.jpg. Indicators: ['ml_anomaly']. Score: 20/10
+2025-04-25 05:20:45,745 - WARNING - Could not analyze C:\TestFiles\file_406.xlsx: 'float' object has no attribute 'bit_length'
+2025-04-25 05:20:47,258 - WARNING - Could not analyze C:\TestFiles\file_154.pdf: 'float' object has no attribute 'bit_length'
