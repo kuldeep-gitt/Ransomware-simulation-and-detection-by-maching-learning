@@ -1,0 +1,13 @@
+/ransomware_project
+│
+├── /data
+│   ├── training_data.csv    # Collected feature data
+│   └── attack_samples/     # Ransomware test files
+│
+├── /models
+│   ├── ransomware_model.pkl # Trained ML model
+│   └── scaler.pkl          # Feature scaler
+│
+├── ransomware_simulator.py
+├── ml_defender.py          # New ML-enhanced defender
+└── train_model.py
